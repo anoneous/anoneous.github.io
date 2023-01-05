@@ -30,4 +30,5 @@ Starting with [Twitter](https://twitter.com/Anoneous). Thinking about Substack o
 Please leave a comment on the commit. Example [here](https://github.com/anoneous/anoneous.github.io/commit/464230042006f3cd2a3dbfd49b2aba6e7963383b#comments).
 
 Time taken: 2 hours
+
 Page history: [here](https://github.com/anoneous/anoneous.github.io/commits/main/word-up.md)
