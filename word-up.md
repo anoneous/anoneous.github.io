@@ -1,9 +1,5 @@
 # word-up
 
-Created time: January 5, 2023 12:12 PM
-Last edited time: January 5, 2023 2:08 PM
-Status: Pushed
-
 A quick first post on the approach and tools I’m using for capturing, processing and sharing my thoughts. 
 
 **Idea capture**
